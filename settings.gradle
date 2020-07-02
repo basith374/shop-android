@@ -1,0 +1,2 @@
+rootProject.name='TelyShop'
+include ':app'
